@@ -1,2 +1,2 @@
 # tf-sourcemod
-*.sp / *.smx
+*
